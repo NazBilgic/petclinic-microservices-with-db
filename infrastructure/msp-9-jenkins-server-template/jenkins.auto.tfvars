@@ -1,4 +1,4 @@
-mykey = "mykey"
+mykey = "First-key"
 ami = "ami-0889a44b331db0194"
 region = "us-east-1"
 instance_type = "t3a.medium"
